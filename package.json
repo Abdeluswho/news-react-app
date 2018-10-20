@@ -27,13 +27,18 @@
   "author": "Haochuan Liu<haochuan.liu@gmail.com>(https://haochuan.io)",
   "license": "MIT",
   "dependencies": {
+    "atob": "^2.1.2",
     "body-parser": "^1.17.2",
     "compression": "^1.7.0",
+    "cryptiles": "^4.1.2",
     "express": "^4.15.3",
     "helmet": "^3.8.0",
     "hoek": "^5.0.3",
+    "macaddress": "^0.2.9",
     "morgan": "^1.8.2",
-    "serve-favicon": "^2.4.3"
+    "randomatic": "^3.1.0",
+    "serve-favicon": "^2.4.3",
+    "url-parse": "^1.4.3"
   },
   "devDependencies": {
     "babel-cli": "^6.24.1",
